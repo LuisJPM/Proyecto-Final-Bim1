@@ -1,0 +1,32 @@
+{
+  "id": "tu-environment-id",
+  "name": "Nombre del Entorno",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:3000",
+      "enabled": true
+    },
+    {
+      "key": "client_token",
+      "value": "<token_cliente>",
+      "enabled": true
+    },
+    {
+      "key": "admin_token",
+      "value": "<token_admin>",
+      "enabled": true
+    },
+    {
+      "key": "product_id",
+      "value": "<id_producto>",
+      "enabled": true
+    },
+    {
+      "key": "category_id",
+      "value": "<id_categoria>",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
